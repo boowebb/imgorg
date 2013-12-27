@@ -1,4 +1,4 @@
-musorg
+imgorg
 ======
 
-music organizer in ruby
+image organizer in ruby
